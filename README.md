@@ -5,4 +5,4 @@
 - 📫 How to reach me: links on bio
 - ⚡ Fun fact: testing everything
 
-Портфолио: [[portfollio]]
+Портфолио: в репозитории "portfolio"
